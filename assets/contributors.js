@@ -7,4 +7,9 @@ export const contributors = [
     name: 'cuHacking Example',
     githubProfile: 'https://github.com/cuHacking'
   }
+  },
+  {
+    name: 'Roger Perez Becerra',
+    githubProfile: 'https://github.com/RogerPerezB'
+  }
 ]
